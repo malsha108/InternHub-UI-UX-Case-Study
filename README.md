@@ -15,6 +15,7 @@ A mobile app concept to help Sri Lankan students discover and explore internship
 
 ## 🖼️ Design
 - iPhone 13 (390px)
+- https://github.com/malsha108/InternHub-UI-UX-Case-Study/blob/main/Untitled%20(1).png
 
 
 ## 👤 Author
