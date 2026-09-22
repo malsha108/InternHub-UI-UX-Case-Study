@@ -1,1 +1,21 @@
-# InternHub-UI-UX-Case-Study
+# 💼 InternHub – Internship Discovery App (UI/UX Case Study)
+
+## 🎯 Overview
+A mobile app concept to help Sri Lankan students discover and explore internship opportunities.
+
+## 🎨 Key Features
+- Home screen with Internship Search & Filters
+- Job Details screen with company details, salary, location, requirements and responsibilities
+- Direct Chat with HR feature
+
+## 🛠️ Tools Used
+- Figma
+- Auto Layout
+- Component System
+
+## 🖼️ Design
+- iPhone 13 (390px)
+
+
+## 👤 Author
+Malsha Pathirana
